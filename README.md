@@ -58,7 +58,7 @@ Here are some ideas to get you started:
     </p>
   </div>
   <div style="margin: 10px;">
-      <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Java','PHP','JavaScript','Python'],datasets:[{data:[40,30,20,10],backgroundColor:['%23FF4F4F','%232FFF30','%23FACB5F','%2320EDFF']}]},options:{plugins:{doughnutlabel:{labels:[{text:'Languages',font:{size:23}}]}}}}" alt="Learning Progress" style="width: 325px;"/>
+      <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Java','PHP','JavaScript','Python'],datasets:[{data:[40,30,20,10],backgroundColor:['%23FF4F4F','%232FFF30','%23FACB5F','%2320EDFF']}]},options:{plugins:{doughnutlabel:{labels:[{text:'Languages',font:{size:23}}]}}}}" alt="Learning Progress" style="width: 310px;"/>
   </div>
 </div>
 <br>
