@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 ## 🍋‍🟩 Featured Repositories
 <div style="display: flex;flex-direction: column; grid-gap: 10px;">
     <div style="display: flex; grid-gap: 10px;">
-         <a style="box-shadow: 3px 3px 10px #20edff;margin: 10px;" href="https://github.com/ProjectsAndPrograms/AnalyserOrange">
+         <a style="box-shadow: 3px 3px 10px #20edff;" href="https://github.com/ProjectsAndPrograms/AnalyserOrange">
             <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=AnalyserOrange&theme=default" />
         </a>
          <a style="box-shadow: 3px 3px 10px #58ff70;" href="https://github.com/ProjectsAndPrograms/contacts-manager">
             <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=contacts-manager&theme=default" />
         </a>
-         <a style="box-shadow: 3px 3px 10px #58ff70;" href="https://github.com/ProjectsAndPrograms/Ideas">
+         <a style="margin: 50px; box-shadow: 3px 3px 10px #58ff70;" href="https://github.com/ProjectsAndPrograms/Ideas">
             <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=Ideas&theme=default" />
         </a>
          <a style="box-shadow: 3px 3px 10px #58ff70;" href="https://github.com/ProjectsAndPrograms/WebChatApp">
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
     </p>
   </div>
   <div style="margin: 10px;">
-      <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Java','PHP','JavaScript','Python'],datasets:[{data:[40,30,20,10],backgroundColor:['%23FF4F4F','%232FFF30','%23FACB5F','%2320EDFF']}]},options:{plugins:{doughnutlabel:{labels:[{text:'Languages',font:{size:23}}]}}}}" alt="Learning Progress" style="width: 350px;"/>
+      <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Java','PHP','JavaScript','Python'],datasets:[{data:[40,30,20,10],backgroundColor:['%23FF4F4F','%232FFF30','%23FACB5F','%2320EDFF']}]},options:{plugins:{doughnutlabel:{labels:[{text:'Languages',font:{size:23}}]}}}}" alt="Learning Progress" style="width: 325px;"/>
   </div>
 </div>
 <br>
