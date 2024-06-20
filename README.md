@@ -43,8 +43,8 @@ Welcome to my GitHub profile! I love sharing knowledge to help you grow in your 
 
 
 ## 🍋‍🟩 Featured Repositories
-<div align="center" style="background-color: var(--card-bg-color); box-shadow: var(--card-shadow);">
-    <a href="https://github.com/ProjectsAndPrograms/AnalyserOrange" style="background-color: var(--card-bg-color); box-shadow: var(--card-shadow);">
+<div align="center">
+    <a href="https://github.com/ProjectsAndPrograms/AnalyserOrange">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=AnalyserOrange" alt="AnalyserOrange repository">
     </a>
     <a href="https://github.com/ProjectsAndPrograms/contacts-manager">
