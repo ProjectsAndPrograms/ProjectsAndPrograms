@@ -2,9 +2,9 @@
 
 Welcome to my GitHub profile! I love sharing knowledge to help you grow in your software development journey. Explore and learn from my repositories!
 
- 🌱 I’m currently learning Spring boot
- 💬 Ask me about my Projects
- 📫 How to reach me: conacts are mentioned below
+ 🌱 I’m currently learning Spring boot<br>
+ 💬 Ask me about my Projects<br>
+ 📫 How to reach me: conacts are mentioned below<br>
 
 ## 🚀 Technologies
 
