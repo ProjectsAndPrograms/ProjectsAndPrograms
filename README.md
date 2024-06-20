@@ -40,6 +40,9 @@ Here are some ideas to get you started:
          <a style="box-shadow: 3px 3px 10px #58ff70;" href="https://github.com/ProjectsAndPrograms/Ideas">
             <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=Ideas&theme=default" />
         </a>
+         <a style="box-shadow: 3px 3px 10px #58ff70;" href="https://github.com/ProjectsAndPrograms/crud-spring-boot-thymeleaf">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=crud-spring-boot-thymeleaf&theme=default" />
+        </a>
     </div>
     <div style="display: flex; grid-gap: 10px;">
     </div>
@@ -51,7 +54,7 @@ Here are some ideas to get you started:
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="margin: 10px;">
     <p>
-      <img align="center" style="box-shadow: 3px 3px 10px #20edff;"  src="https://github-readme-stats.vercel.app/api?username=ProjectsAndPrograms&show_icons=true&locale=en" alt="varshitgupta62" />
+      <img align="center" style="box-shadow: 3px 3px 10px #20edff;"  src="https://github-readme-stats.vercel.app/api?username=ProjectsAndPrograms&show_icons=true&locale=en" alt="ProjectsAndPrograms" style="width: 400px !important;" />
     </p>
   </div>
   <div style="margin: 10px;">
