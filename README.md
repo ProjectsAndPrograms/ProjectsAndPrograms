@@ -43,24 +43,21 @@ Welcome to my GitHub profile! I love sharing knowledge to help you grow in your 
 
 
 ## 🍋‍🟩 Featured Repositories
-<div style="display: flex;flex-direction: column; grid-gap: 10px;">
-    <div style="display: flex; grid-gap: 10px;" >
-         <a href="https://github.com/ProjectsAndPrograms/AnalyserOrange">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=AnalyserOrange&theme=default" />
-        </a>
-         <a href="https://github.com/ProjectsAndPrograms/contacts-manager">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=contacts-manager&theme=default" />
-        </a>
-    </div>
-    <div style="display: flex; grid-gap: 10px;">
-      <a href="https://github.com/ProjectsAndPrograms/Ideas">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=Ideas&theme=default" />
-        </a>
-         <a href="https://github.com/ProjectsAndPrograms/WebChatApp">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=WebChatApp&theme=default" />
-        </a>
-    </div>
-    
+<div align="center">
+    <a href="https://github.com/ProjectsAndPrograms/AnalyserOrange">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=AnalyserOrange" alt="AnalyserOrange repository">
+    </a>
+    <a href="https://github.com/ProjectsAndPrograms/contacts-manager">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=contacts-manager" alt="Contacts Manager repository">
+    </a>
+</div>
+<div align="center">
+    <a href="https://github.com/ProjectsAndPrograms/Ideas">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=Ideas" alt="Ideas repository">
+    </a>
+    <a href="https://github.com/ProjectsAndPrograms/WebChatApp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=WebChatApp" alt="Web Chat App repository">
+    </a>
 </div>
 
 ## 📫 Connect with Me
