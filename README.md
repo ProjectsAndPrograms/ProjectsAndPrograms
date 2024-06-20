@@ -31,16 +31,16 @@ Here are some ideas to get you started:
 ## 🍋‍🟩 Featured Repositories
 <div style="display: flex;flex-direction: column; grid-gap: 10px;">
     <div style="display: flex; grid-gap: 10px;">
-         <a style="box-shadow: 3px 3px 10px #20edff;" href="https://github.com/ProjectsAndPrograms/AnalyserOrange">
+         <a style="box-shadow: 3px 3px 10px #20edff; margin-bottom: 10px;" href="https://github.com/ProjectsAndPrograms/AnalyserOrange">
             <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=AnalyserOrange&theme=default" />
         </a>
-         <a style="box-shadow: 3px 3px 10px #58ff70;" href="https://github.com/ProjectsAndPrograms/contacts-manager">
+         <a style="box-shadow: 3px 3px 10px #58ff70;  margin-bottom: 10px;" href="https://github.com/ProjectsAndPrograms/contacts-manager">
             <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=contacts-manager&theme=default" />
         </a>
-         <a style="box-shadow: 3px 3px 10px #58ff70;" href="https://github.com/ProjectsAndPrograms/Ideas">
+         <a style="box-shadow: 3px 3px 10px #58ff70; margin-bottom: 10px;" href="https://github.com/ProjectsAndPrograms/Ideas">
             <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=Ideas&theme=default" />
         </a>
-         <a style="box-shadow: 3px 3px 10px #58ff70;" href="https://github.com/ProjectsAndPrograms/WebChatApp">
+         <a style="box-shadow: 3px 3px 10px #58ff70; margin-bottom: 10px;" href="https://github.com/ProjectsAndPrograms/WebChatApp">
             <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=WebChatApp&theme=default" />
         </a>
     </div>
