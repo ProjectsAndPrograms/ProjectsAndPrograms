@@ -54,13 +54,11 @@ Here are some ideas to get you started:
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="margin: 2px;">
     <p>
-      <img align="left" style="box-shadow: 3px 3px 10px #20edff;"  src="https://github-readme-stats.vercel.app/api?username=ProjectsAndPrograms&show_icons=true&locale=en" alt="ProjectsAndPrograms" style="width: 400px !important;" />
+      <img align="left" style="box-shadow: 3px 3px 10px #20edff;"  src="https://github-readme-stats.vercel.app/api?username=ProjectsAndPrograms&show_icons=true&locale=en" alt="ProjectsAndPrograms" style="width: 200px !important;" />
     </p>
   </div>
   <div style="margin: 10px;">
-    <p>
-      <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Java','PHP','JavaScript','Python'],datasets:[{data:[40,30,20,10],backgroundColor:['%23FF4F4F','%232FFF30','%23FACB5F','%2320EDFF']}]},options:{plugins:{doughnutlabel:{labels:[{text:'Languages',font:{size:23}}]}}}}" alt="Learning Progress" style="width: 400px;"/>
-    </p>
+      <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Java','PHP','JavaScript','Python'],datasets:[{data:[40,30,20,10],backgroundColor:['%23FF4F4F','%232FFF30','%23FACB5F','%2320EDFF']}]},options:{plugins:{doughnutlabel:{labels:[{text:'Languages',font:{size:23}}]}}}}" alt="Learning Progress" style="width: 300px;"/>
   </div>
 </div>
 
