@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I love sharing knowledge to help you grow in your 
 
 ## 🍋‍🟩 Featured Repositories
 <div style="display: flex;flex-direction: column; grid-gap: 10px;">
-    <div style="display: flex; grid-gap: 10px;">
+    <div style="display: flex; grid-gap: 10px; margin:10px; " >
          <a href="https://github.com/ProjectsAndPrograms/AnalyserOrange">
             <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=AnalyserOrange&theme=default" />
         </a>
@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I love sharing knowledge to help you grow in your 
             <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=contacts-manager&theme=default" />
         </a>
     </div>
-    <div style="display: flex; grid-gap: 10px;">
+    <div style="display: flex; grid-gap: 10px;  margin:10px;">
       <a href="https://github.com/ProjectsAndPrograms/Ideas">
             <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=Ideas&theme=default" />
         </a>
