@@ -43,10 +43,10 @@ Welcome to my GitHub profile! I love sharing knowledge to help you grow in your 
 <a href="https://github.com/ProjectsAndPrograms/github-readme-stats#responsive-card-theme#gh-dark-mode-only">
 <div  style="width: 100%; display: flex;">
  <a href="https://github.com/ProjectsAndPrograms/github-readme-stats#responsive-card-theme#gh-dark-mode-only" style="display: block;">
-  <img align="center" style="max-height: 200px;" src="https://github-readme-stats.vercel.app/api?username=ProjectsAndPrograms&show_icons=true&include_all_commits=true&theme=dark&hide_border=true#gh-dark-mode-only" alt="ProjectsAndPrograms github stats" />
+  <img align="center" style="max-height: 200px;" src="https://github-readme-stats.vercel.app/api?username=ProjectsAndPrograms&show_icons=true&include_all_commits=true&theme=merko&hide_border=true#gh-dark-mode-only" alt="ProjectsAndPrograms github stats" />
  </a>
  <a href="https://github.com/ProjectsAndPrograms/github-readme-stats#responsive-card-theme#gh-dark-mode-only" style="display:block;">
-  <img align="center" style="height: 195px;max-height: 200px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectsAndPrograms&layout=compact&theme=dark&hide_border=true#gh-dark-mode-only" />
+  <img align="center" style="height: 195px;max-height: 200px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectsAndPrograms&layout=compact&theme=merko&hide_border=true#gh-dark-mode-only" />
  </a>
 </a>
 </div>
@@ -57,36 +57,36 @@ Welcome to my GitHub profile! I love sharing knowledge to help you grow in your 
 <div align="center">
     <!-- Light mode -->
     <a href="https://github.com/ProjectsAndPrograms/AnalyserOrange#responsive-card-theme#gh-light-mode-only">
-        <img style="border: 2px solid #989898" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=AnalyserOrange&hide_border=false#gh-light-mode-only" alt="AnalyserOrange repository">
+        <img style="border: 2px solid #989898" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=AnalyserOrange&theme=buefy&hide_border=false#gh-light-mode-only" alt="AnalyserOrange repository">
     </a>
     <a href="https://github.com/ProjectsAndPrograms/contacts-manager#responsive-card-theme#gh-light-mode-only">
-        <img style="border: 2px solid #989898" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=contacts-manager&hide_border=false#gh-light-mode-only" alt="Contacts Manager repository">
+        <img style="border: 2px solid #989898" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=contacts-manager&theme=buefy&hide_border=false#gh-light-mode-only" alt="Contacts Manager repository">
     </a>
 </div>
 <div align="center">
     <a href="https://github.com/ProjectsAndPrograms/Ideas#responsive-card-theme#gh-light-mode-only">
-        <img style="border: 2px solid #989898" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=Ideas&hide_border=false#gh-light-mode-only" alt="Ideas repository">
+        <img style="border: 2px solid #989898" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=Ideas&theme=buefy&hide_border=false#gh-light-mode-only" alt="Ideas repository">
     </a>
     <a href="https://github.com/ProjectsAndPrograms/WebChatApp#responsive-card-theme#gh-light-mode-only">
-        <img style="border: 2px solid #989898" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=WebChatApp&hide_border=false#gh-light-mode-only" alt="Web Chat App repository">
+        <img style="border: 2px solid #989898" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=WebChatApp&theme=buefy&hide_border=false#gh-light-mode-only" alt="Web Chat App repository">
     </a>
 </div>
 
 <div align="center">
     <!-- Dark mode -->
     <a href="https://github.com/ProjectsAndPrograms/AnalyserOrange#responsive-card-theme#gh-dark-mode-only">
-        <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=AnalyserOrange&theme=dark&hide_border=true#gh-dark-mode-only" alt="AnalyserOrange repository">
+        <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=AnalyserOrange&theme=merko&hide_border=true#gh-dark-mode-only" alt="AnalyserOrange repository">
     </a>
     <a href="https://github.com/ProjectsAndPrograms/contacts-manager#responsive-card-theme#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=contacts-manager&theme=dark&hide_border=true#gh-dark-mode-only" alt="Contacts Manager repository">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=contacts-manager&theme=merko&hide_border=true#gh-dark-mode-only" alt="Contacts Manager repository">
     </a>
 </div>
 <div align="center">
     <a href="https://github.com/ProjectsAndPrograms/Ideas#responsive-card-theme#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=Ideas&theme=dark&hide_border=true#gh-dark-mode-only" alt="Ideas repository">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=Ideas&theme=merko&hide_border=true#gh-dark-mode-only" alt="Ideas repository">
     </a>
     <a href="https://github.com/ProjectsAndPrograms/WebChatApp#responsive-card-theme#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=WebChatApp&theme=dark&hide_border=true#gh-dark-mode-only" alt="Web Chat App repository">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=WebChatApp&theme=merko&hide_border=true#gh-dark-mode-only" alt="Web Chat App repository">
     </a>
 </div>
 
