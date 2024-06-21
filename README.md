@@ -29,11 +29,16 @@ Welcome to my GitHub profile! I love sharing knowledge to help you grow in your 
    
 ## 🐎 Learning & Progress
 
-<div align="center" class="center-images">
+<div align="center">
 <a href="https://github.com/ProjectsAndPrograms/github-readme-stats#responsive-card-theme#gh-light-mode-only">
- 
-| <a href="https://github.com/ProjectsAndPrograms/github-readme-stats#responsive-card-theme#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ProjectsAndPrograms&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true#gh-light-mode-only" alt="ProjectsAndPrograms github stats" /></a> | <a href="https://github.com/ProjectsAndPrograms/github-readme-stats#responsive-card-theme#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectsAndPrograms&layout=compact&theme=buefy&hide_border=true#gh-light-mode-only" /></a> |
-| ------------- | ------------- |
+<div  style="width: 100%; display: flex;">
+ <a href="https://github.com/ProjectsAndPrograms/github-readme-stats#responsive-card-theme#gh-light-mode-only" style="display: block;">
+  <img align="center" style="max-height: 200px;" src="https://github-readme-stats.vercel.app/api?username=ProjectsAndPrograms&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false#gh-light-mode-only" alt="ProjectsAndPrograms github stats" />
+ </a>
+ <a href="https://github.com/ProjectsAndPrograms/github-readme-stats#responsive-card-theme#gh-light-mode-only" style="display:block;">
+  <img align="center" style="height: 195px;max-height: 200px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectsAndPrograms&layout=compact&theme=buefy&hide_border=false#gh-light-mode-only" />
+ </a>
+</div>
 </a>
 <a href="https://github.com/ProjectsAndPrograms/github-readme-stats#responsive-card-theme#gh-dark-mode-only">
 
