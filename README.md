@@ -29,18 +29,13 @@ Welcome to my GitHub profile! I love sharing knowledge to help you grow in your 
    
 ## 🐎 Learning & Progress
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="margin: 2px;">
-    <p>
-      <img align="left" style="box-shadow: 3px 3px 10px #20edff;"  src="https://github-readme-stats.vercel.app/api?username=ProjectsAndPrograms&show_icons=true&locale=en" alt="ProjectsAndPrograms" style="width: 200px !important;" />
-    </p>
-  </div>
-  <div style="margin: 10px;">
-      <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Java','PHP','JavaScript','Python'],datasets:[{data:[40,30,20,10],backgroundColor:['%23FF4F4F','%232FFF30','%23FACB5F','%2320EDFF']}]},options:{plugins:{doughnutlabel:{labels:[{text:'Languages',font:{size:23}}]}}}}" alt="Learning Progress" style="width: 300px;"/>
-  </div>
+<div align="center">
+
+| <a href="https://github.com/ProjectsAndPrograms/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ProjectsAndPrograms&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ProjectsAndPrograms github stats" /></a> | <a href="https://github.com/ProjectsAndPrograms/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectsAndPrograms&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 </div>
 <br>
-
 
 ## 🍋‍🟩 Featured Repositories
 <div align="center">
