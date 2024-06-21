@@ -28,11 +28,6 @@ Welcome to my GitHub profile! I love sharing knowledge to help you grow in your 
 
    
 ## 🐎 Learning & Progress
-<style>
-    .center-images img {
-        border: none !important;
-    }
-</style>
 
 <div align="center" class="center-images">
 
@@ -45,41 +40,48 @@ Welcome to my GitHub profile! I love sharing knowledge to help you grow in your 
 </div>
 <br>
 
-
-
+## 🍋‍🟩 Featured Repositories<div align="center">
+  
 <div align="center">
-
-
-</div>
-<br>
-
-
-
-
-
-
-## 🍋‍🟩 Featured Repositories
-<div align="center">
-    <a href="https://github.com/ProjectsAndPrograms/AnalyserOrange">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=AnalyserOrange" alt="AnalyserOrange repository">
+    <!-- Light mode -->
+    <a href="https://github.com/ProjectsAndPrograms/AnalyserOrange#responsive-card-theme#gh-light-mode-only">
+        <img style="border: 2px solid #989898" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=AnalyserOrange&hide_border=true#gh-light-mode-only" alt="AnalyserOrange repository">
     </a>
-    <a href="https://github.com/ProjectsAndPrograms/contacts-manager">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=contacts-manager" alt="Contacts Manager repository">
+    <a href="https://github.com/ProjectsAndPrograms/contacts-manager#responsive-card-theme#gh-light-mode-only">
+        <img style="border: 2px solid #989898" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=contacts-manager&hide_border=true#gh-light-mode-only" alt="Contacts Manager repository">
     </a>
 </div>
 <div align="center">
-    <a href="https://github.com/ProjectsAndPrograms/Ideas">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=Ideas" alt="Ideas repository">
+    <a href="https://github.com/ProjectsAndPrograms/Ideas#responsive-card-theme#gh-light-mode-only">
+        <img style="border: 2px solid #989898" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=Ideas&hide_border=true#gh-light-mode-only" alt="Ideas repository">
     </a>
-    <a href="https://github.com/ProjectsAndPrograms/WebChatApp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=WebChatApp" alt="Web Chat App repository">
+    <a href="https://github.com/ProjectsAndPrograms/WebChatApp#responsive-card-theme#gh-light-mode-only">
+        <img style="border: 2px solid #989898" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=WebChatApp&hide_border=true#gh-light-mode-only" alt="Web Chat App repository">
+    </a>
+</div>
+
+<div align="center">
+    <!-- Dark mode -->
+    <a href="https://github.com/ProjectsAndPrograms/AnalyserOrange#responsive-card-theme#gh-dark-mode-only">
+        <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=AnalyserOrange&theme=dark&hide_border=true#gh-dark-mode-only" alt="AnalyserOrange repository">
+    </a>
+    <a href="https://github.com/ProjectsAndPrograms/contacts-manager#responsive-card-theme#gh-dark-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=contacts-manager&theme=dark&hide_border=true#gh-dark-mode-only" alt="Contacts Manager repository">
+    </a>
+</div>
+<div align="center">
+    <a href="https://github.com/ProjectsAndPrograms/Ideas#responsive-card-theme#gh-dark-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=Ideas&theme=dark&hide_border=true#gh-dark-mode-only" alt="Ideas repository">
+    </a>
+    <a href="https://github.com/ProjectsAndPrograms/WebChatApp#responsive-card-theme#gh-dark-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=WebChatApp&theme=dark&hide_border=true#gh-dark-mode-only" alt="Web Chat App repository">
     </a>
 </div>
 
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="mailto:your.suraj2002fake@gmail.com">
+  <a href="mailto:your.suraj2002fake@gmail.com"> 
     <img src="https://img.shields.io/badge/Email-your.shubhamkumarmaurya786@gmail.com-red?style=for-the-badge" alt="Email Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/shubham-kumar-277bba278/">
