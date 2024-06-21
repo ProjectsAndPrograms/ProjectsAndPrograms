@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I love sharing knowledge to help you grow in your 
 </div>
 <br>
 
-## 🍋‍🟩 Featured Repositories<div align="center">
+## 🍋‍🟩 Featured Repositories
   
 <div align="center">
     <!-- Light mode -->
