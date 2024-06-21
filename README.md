@@ -50,10 +50,10 @@ Welcome to my GitHub profile! I love sharing knowledge to help you grow in your 
  </a>
 </a>
 </div>
+</div>
 <br>
 
 ## 🍋‍🟩 Featured Repositories
-  
 <div align="center">
     <!-- Light mode -->
     <a href="https://github.com/ProjectsAndPrograms/AnalyserOrange#responsive-card-theme#gh-light-mode-only">
