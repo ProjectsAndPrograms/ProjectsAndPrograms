@@ -48,18 +48,18 @@ Welcome to my GitHub profile! I love sharing knowledge to help you grow in your 
 <div align="center">
     <!-- Light mode -->
     <a href="https://github.com/ProjectsAndPrograms/AnalyserOrange#responsive-card-theme#gh-light-mode-only">
-        <img style="border: 2px solid #989898" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=AnalyserOrange&hide_border=true#gh-light-mode-only" alt="AnalyserOrange repository">
+        <img style="border: 2px solid #989898" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=AnalyserOrange&hide_border=false#gh-light-mode-only" alt="AnalyserOrange repository">
     </a>
     <a href="https://github.com/ProjectsAndPrograms/contacts-manager#responsive-card-theme#gh-light-mode-only">
-        <img style="border: 2px solid #989898" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=contacts-manager&hide_border=true#gh-light-mode-only" alt="Contacts Manager repository">
+        <img style="border: 2px solid #989898" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=contacts-manager&hide_border=false#gh-light-mode-only" alt="Contacts Manager repository">
     </a>
 </div>
 <div align="center">
     <a href="https://github.com/ProjectsAndPrograms/Ideas#responsive-card-theme#gh-light-mode-only">
-        <img style="border: 2px solid #989898" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=Ideas&hide_border=true#gh-light-mode-only" alt="Ideas repository">
+        <img style="border: 2px solid #989898" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=Ideas&hide_border=false#gh-light-mode-only" alt="Ideas repository">
     </a>
     <a href="https://github.com/ProjectsAndPrograms/WebChatApp#responsive-card-theme#gh-light-mode-only">
-        <img style="border: 2px solid #989898" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=WebChatApp&hide_border=true#gh-light-mode-only" alt="Web Chat App repository">
+        <img style="border: 2px solid #989898" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectsAndPrograms&repo=WebChatApp&hide_border=false#gh-light-mode-only" alt="Web Chat App repository">
     </a>
 </div>
 
