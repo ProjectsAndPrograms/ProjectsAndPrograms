@@ -28,13 +28,18 @@ Welcome to my GitHub profile! I love sharing knowledge to help you grow in your 
 
    
 ## 🐎 Learning & Progress
+<style>
+    .center-images img {
+        border: none !important;
+    }
+</style>
 
-<div align="center">
+<div align="center" class="center-images">
 
-| <a href="https://github.com/ProjectsAndPrograms/github-readme-stats#responsive-card-theme#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ProjectsAndPrograms&show_icons=true&include_all_commits=true&theme=buefy#gh-light-mode-only&hide_border=true" alt="ProjectsAndPrograms github stats" /></a> | <a href="https://github.com/ProjectsAndPrograms/github-readme-stats#responsive-card-theme#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectsAndPrograms&layout=compact&theme=buefy#gh-light-mode-only&hide_border=true" /></a> |
+| <a href="https://github.com/ProjectsAndPrograms/github-readme-stats#responsive-card-theme#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ProjectsAndPrograms&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true#gh-light-mode-only" alt="ProjectsAndPrograms github stats" /></a> | <a href="https://github.com/ProjectsAndPrograms/github-readme-stats#responsive-card-theme#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectsAndPrograms&layout=compact&theme=buefy&hide_border=true#gh-light-mode-only" /></a> |
 | ------------- | ------------- |
 
-| <a href="https://github.com/ProjectsAndPrograms/github-readme-stats#responsive-card-theme#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ProjectsAndPrograms&show_icons=true&include_all_commits=true&hide_border=true&theme=dark#gh-dark-mode-only" alt="ProjectsAndPrograms github stats" /></a> | <a href="https://github.com/ProjectsAndPrograms/github-readme-stats#responsive-card-theme#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectsAndPrograms&layout=compact&hide_border=true&theme=dark#gh-dark-mode-only" /></a> |
+| <a href="https://github.com/ProjectsAndPrograms/github-readme-stats#responsive-card-theme#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ProjectsAndPrograms&show_icons=true&include_all_commits=true&theme=dark&hide_border=true#gh-dark-mode-only" alt="ProjectsAndPrograms github stats" /></a> | <a href="https://github.com/ProjectsAndPrograms/github-readme-stats#responsive-card-theme#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectsAndPrograms&layout=compact&theme=dark&hide_border=true#gh-dark-mode-only" /></a> |
 | ------------- | ------------- |
 
 </div>
