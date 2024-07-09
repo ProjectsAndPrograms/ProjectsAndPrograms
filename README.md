@@ -37,7 +37,6 @@ Welcome to my GitHub profile! I love sharing knowledge to help you grow in your 
  </a>
  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectsAndPrograms&layout=compact&theme=buefy&hide_border=false#gh-light-mode-only#responsive-card-theme#gh-light-mode-only" style="display:block;">
   <img align="center" style="height: 195px;max-height: 200px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectsAndPrograms&layout=compact&theme=buefy&hide_border=false#gh-light-mode-only" />
-  
  </a>
 </div>
 </a>
