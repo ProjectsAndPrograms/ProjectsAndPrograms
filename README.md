@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I love sharing knowledge to help you grow in your 
   <img src="./images/php.png" alt="Tools" style="border-radius: 15px;"/>
   <img src="./images/laravel.png" alt="Tools" style="border-radius: 15px;"/>
   <img src="./images/react.png" alt="Tools" style="border-radius: 15px;"/>
+  <img src="./images/angular.png" alt="Tools" style="border-radius: 15px;"/>
   <img src="./images/html.png" alt="Tools" style="border-radius: 15px;"/>
   <img src="./images/css.png" alt="Tools" style="border-radius: 15px;"/>
   <img src="./images/js.png" alt="Tools" style="border-radius: 15px;"/>
