@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I love sharing knowledge to help you grow in your 
 
 | Spring | Spring Boot | Django | Laravel | Livewire | React | Angular | Bootstrap |
 |--------|-------------|--------|---------|----------|-------|---------|-----------|
-| <img src="./images/spring.png" title="Spring" alt="Spring"/> | <img src="./images/spring-boot.png" style="margin: 0 15px; " title="Spring Boot" alt="Spring Boot"/> | <img src="./images/django.png" title="Django" alt="Django"/> | <img src="./images/laravel.png" title="Laravel" alt="Laravel"/> | <img src="./images/livewire.png" title="Livewire" alt="Livewire"/> | <img src="./images/react.png" title="React" alt="React"/> | <img src="./images/angular.png" title="Angular" alt="Angular"/> | <img src="./images/bootstrap.png" title="Bootstrap" alt="Bootstrap"/> |
+| <img src="./images/spring.png" title="Spring" alt="Spring"/> | <img src="./images/spring-boot.png" align="center" title="Spring Boot" alt="Spring Boot"/> | <img src="./images/django.png" title="Django" alt="Django"/> | <img src="./images/laravel.png" title="Laravel" alt="Laravel"/> | <img src="./images/livewire.png" title="Livewire" alt="Livewire"/> | <img src="./images/react.png" title="React" alt="React"/> | <img src="./images/angular.png" title="Angular" alt="Angular"/> | <img src="./images/bootstrap.png" title="Bootstrap" alt="Bootstrap"/> |
 
 | MySQL | MongoDB | PostgreSQL |
 |-------|---------|------------|
