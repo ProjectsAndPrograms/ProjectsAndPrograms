@@ -5,53 +5,21 @@ Welcome to my GitHub profile! I love sharing knowledge to help you grow in your 
  🌱 I’m currently learning Spring boot<br />
  💬 Ask me about my Projects<br />
  📫 How to reach me: conacts are mentioned below<br />
+ 
+ ## 🚀 Technologies
 
-## 🚀 Technologies
+| Java | Python | PHP | HTML5 | CSS3 | JavaScript |
+|------|--------|-----|-------|------|------------|
+| <img src="./images/java.png" title="Java" alt="Java"/> | <img src="./images/python.png" title="Python" alt="Python"/> | <img src="./images/php.png" title="PHP" alt="PHP"/> | <img src="./images/html.png" title="HTML5" alt="HTML"/> | <img src="./images/css.png" title="CSS3" alt="CSS"/> | <img src="./images/js.png" title="JavaScript" alt="JavaScript"/> |
 
-<p align="center">
-  <img src="./images/java.png" alt="Languages" style="border-radius: 15px;"/>
-  <img src="./images/spring.png" alt="Frameworks" style="border-radius: 15px;"/>
-  <img src="./images/spring-boot.png" alt="Databases" style="border-radius: 15px;"/>
-  <img src="./images/php.png" alt="Tools" style="border-radius: 15px;"/>
-  <img src="./images/laravel.png" alt="Tools" style="border-radius: 15px;"/>
-  <img src="./images/react.png" alt="Tools" style="border-radius: 15px;"/>
-  <img src="./images/angular.png" alt="Tools" style="border-radius: 15px;"/>
-  <img src="./images/html.png" alt="Tools" style="border-radius: 15px;"/>
-  <img src="./images/css.png" alt="Tools" style="border-radius: 15px;"/>
-  <img src="./images/js.png" alt="Tools" style="border-radius: 15px;"/>
-  <img src="./images/bootstrap.png" alt="Tools" style="border-radius: 15px;"/>
-  <img src="./images/mysql.png" alt="Tools" style="border-radius: 15px;"/>
-  <img src="./images/mongo.png" alt="Tools" style="border-radius: 15px;"/>
-  <img src="./images/postgres.png" alt="Tools" style="border-radius: 15px;"/>
-</p>
+| Spring | Spring Boot | Django | Laravel | Livewire | React | Angular | Bootstrap |
+|--------|-------------|--------|---------|----------|-------|---------|-----------|
+| <img src="./images/spring.png" title="Spring" alt="Spring"/> | <img src="./images/spring-boot.png" style="margin: 0 15px; " title="Spring Boot" alt="Spring Boot"/> | <img src="./images/django.png" title="Django" alt="Django"/> | <img src="./images/laravel.png" title="Laravel" alt="Laravel"/> | <img src="./images/livewire.png" title="Livewire" alt="Livewire"/> | <img src="./images/react.png" title="React" alt="React"/> | <img src="./images/angular.png" title="Angular" alt="Angular"/> | <img src="./images/bootstrap.png" title="Bootstrap" alt="Bootstrap"/> |
 
-<br/>
+| MySQL | MongoDB | PostgreSQL |
+|-------|---------|------------|
+| <img src="./images/mysql.png" title="MySQL" alt="MySQL"/> | <img src="./images/mongo.png" title="MongoDB" alt="MongoDB"/> | <img src="./images/postgres.png" title="PostgreSQL" alt="PostgreSQL"/> |
 
-   
-## 🐎 Learning & Progress
-
-<div align="center">
-<a href="https://github.com/ProjectsAndPrograms/github-readme-stats#responsive-card-theme#gh-light-mode-only">
-<div  style="width: 100%; display: flex;">
- <a href="https://github-readme-stats.vercel.app/api?username=ProjectsAndPrograms&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false#gh-light-mode-only#responsive-card-theme#gh-light-mode-only" style="display: block;">
-  <img align="center" style="max-height: 200px;" src="https://github-readme-stats.vercel.app/api?username=ProjectsAndPrograms&show_icons=true&include_all_commits=true&theme=buefy#gh-light-mode-only" alt="ProjectsAndPrograms github stats" />
- </a>
- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectsAndPrograms&layout=compact&theme=buefy&hide_border=false#gh-light-mode-only#responsive-card-theme#gh-light-mode-only" style="display:block;">
-  <img align="center" style="height: 195px;max-height: 200px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectsAndPrograms&layout=compact&theme=buefy&hide_border=false#gh-light-mode-only" />
- </a>
-</div>
-</a>
-<a href="https://github.com/ProjectsAndPrograms/github-readme-stats#responsive-card-theme#gh-dark-mode-only">
-<div  style="width: 100%; display: flex;">
- <a href="https://github-readme-stats.vercel.app/api?username=ProjectsAndPrograms&show_icons=true&include_all_commits=true&theme=merko&hide_border=true#gh-dark-mode-only#responsive-card-theme#gh-dark-mode-only" style="display: block;">
-  <img align="center" style="max-height: 200px;" src="https://github-readme-stats.vercel.app/api?username=ProjectsAndPrograms&show_icons=true&include_all_commits=true&theme=dark&hide_border=true#gh-dark-mode-only" alt="ProjectsAndPrograms github stats" />
- </a>
- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectsAndPrograms&layout=compact&theme=merko&hide_border=true#gh-dark-mode-only#responsive-card-theme#gh-dark-mode-only" style="display:block;">
-  <img align="center" style="height: 195px;max-height: 200px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectsAndPrograms&layout=compact&theme=merko&hide_border=true#gh-dark-mode-only" />
- </a>
-</a>
-</div>
-</div>
 <br>
 
 ## 🍋‍🟩 Featured Repositories
