@@ -12,9 +12,9 @@ Welcome to my GitHub profile! I love sharing knowledge to help you grow in your 
 |:----:|:------:|:---:|:-----:|:----:|:----------:|
 | <p align="center"><img src="./images/java.png" title="Java" alt="Java"/></p> | <p align="center"><img src="./images/python.png" title="Python" alt="Python"/></p> | <p align="center"><img src="./images/php.png" title="PHP" alt="PHP"/></p> | <p align="center"><img src="./images/html.png" title="HTML5" alt="HTML"/></p> | <p align="center"><img src="./images/css.png" title="CSS3" alt="CSS"/></p> | <p align="center"><img src="./images/js.png" title="JavaScript" alt="JavaScript"/></p> |
  
-| Spring | Spring Boot | Django | Laravel | Livewire | React | Angular | Bootstrap |
-|:------:|:-----------:|:------:|:-------:|:--------:|:-----:|:-------:|:---------:|
-| <p align="center"><img src="./images/spring.png" title="Spring" alt="Spring"/></p> | <p align="center"><img src="./images/spring-boot.png" title="Spring Boot" alt="Spring Boot"/></p> | <p align="center"><img src="./images/django.png" title="Django" alt="Django"/></p> | <p align="center"><img src="./images/laravel.png" title="Laravel" alt="Laravel"/></p> | <p align="center"><img src="./images/livewire.png" title="Livewire" alt="Livewire"/></p> | <p align="center"><img src="./images/react.png" title="React" alt="React"/></p> | <p align="center"><img src="./images/angular.png" title="Angular" alt="Angular"/></p> | <p align="center"><img src="./images/bootstrap.png" title="Bootstrap" alt="Bootstrap"/></p> |
+| Spring | Spring Boot | Django | Laravel | Livewire | React | Angular | Bootstrap | Qt |
+|:------:|:-----------:|:------:|:-------:|:--------:|:-----:|:-------:|:---------:|:---------:|
+| <p align="center"><img src="./images/spring.png" title="Spring" alt="Spring"/></p> | <p align="center"><img src="./images/spring-boot.png" title="Spring Boot" alt="Spring Boot"/></p> | <p align="center"><img src="./images/django.png" title="Django" alt="Django"/></p> | <p align="center"><img src="./images/laravel.png" title="Laravel" alt="Laravel"/></p> | <p align="center"><img src="./images/livewire.png" title="Livewire" alt="Livewire"/></p> | <p align="center"><img src="./images/react.png" title="React" alt="React"/></p> | <p align="center"><img src="./images/angular.png" title="Angular" alt="Angular"/></p> | <p align="center"><img src="./images/bootstrap.png" title="Bootstrap" alt="Bootstrap"/></p> | <p align="center"><img src="./images/qt.png" title="Qt" alt="Qt"/></p> |
 
 | MySQL | MongoDB | PostgreSQL |
 |:-----:|:-------:|:----------:|
