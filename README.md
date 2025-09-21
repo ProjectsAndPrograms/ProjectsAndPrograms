@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I love sharing knowledge to help you grow in your 
 
  🌱 I’m currently learning Data Science<br />
  💬 Ask me about my Projects<br />
- 📫 How to reach me: conacts are mentioned below<br />
+ 📫 How to reach me: contacts are mentioned below<br />
  
  ## 🚀 Technologies
 
