@@ -30,7 +30,11 @@ Welcome to my GitHub profile! I love sharing knowledge to help you grow in your 
 </td>
 <td width="50%" align="center">
 
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=suraj-repositories&theme=github-compact&hide_border=true&area=true"> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=suraj-repositories&theme=github-light&hide_border=true&area=true"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=suraj-repositories&theme=github-light&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"> </picture>
+<picture> 
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=suraj-repositories&theme=merko&hide_border=true&area=true">
+ <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=suraj-repositories&theme=github-light&hide_border=true&area=true"> 
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=suraj-repositories&theme=github-light&hide_border=true&area=true" width="100%" height="100%" alt="GitHub Activity Graph">
+</picture>
 
 </td>
 
