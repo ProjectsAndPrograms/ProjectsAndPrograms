@@ -25,15 +25,15 @@ Welcome to my GitHub profile! I love sharing knowledge to help you grow in your 
 ## 🍋‍🟩 Contribution
 <table> <tr> <td width="50%" align="center">
 
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=suraj-repositories&theme=dark&hide_border=true"> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=suraj-repositories&theme=default&hide_border=true"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-repositories&theme=default&hide_border=true" width="100%" alt="GitHub Streak"> </picture>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ProjectsAndPrograms&theme=dark&hide_border=true"> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ProjectsAndPrograms&theme=default&hide_border=true"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProjectsAndPrograms&theme=default&hide_border=true" width="100%" alt="GitHub Streak"> </picture>
 
 </td>
 <td width="50%" align="center">
 
 <picture> 
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=suraj-repositories&theme=merko&hide_border=true&area=true&hide_title=true">
- <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=suraj-repositories&theme=github-light&hide_border=true&area=true&hide_title=true"> 
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=suraj-repositories&theme=github-light&hide_border=true&area=true&hide_title=true" width="100%" height="100%" alt="GitHub Activity Graph">
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ProjectsAndPrograms&theme=merko&hide_border=true&area=true&hide_title=true">
+ <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ProjectsAndPrograms&theme=github-light&hide_border=true&area=true&hide_title=true"> 
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=ProjectsAndPrograms&theme=github-light&hide_border=true&area=true&hide_title=true" width="100%" height="100%" alt="GitHub Activity Graph">
 </picture>
 
 </td>
@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I love sharing knowledge to help you grow in your 
    <a href="mailto:your.suraj2002fake@gmail.com"> 
     <img src="https://img.shields.io/badge/Email-your.shubhamkumarmaurya786@gmail.com-red?style=for-the-badge" alt="Email Badge"/>
   </a>
-  <a href="https://github.com/suraj-repositories">
+  <a href="https://github.com/ProjectsAndPrograms">
     <img src="https://img.shields.io/badge/Github-my_practices-green?style=for-the-badge" alt="Github Badge"/>
   </a>
  
