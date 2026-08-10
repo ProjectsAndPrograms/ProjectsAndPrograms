@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I love sharing knowledge to help you grow in your 
     <img src="https://img.shields.io/badge/LinkedIn-shubham_kumar_277bba278-blue?style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
    <a href="mailto:your.suraj2002fake@gmail.com"> 
-    <img src="https://img.shields.io/badge/Email-your.shubhamkumarmaurya786@gmail.com-red?style=for-the-badge" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-shubhamkumarmaurya786@gmail.com-red?style=for-the-badge" alt="Email Badge"/>
   </a>
   <a href="https://github.com/ProjectsAndPrograms">
     <img src="https://img.shields.io/badge/Github-my_practices-green?style=for-the-badge" alt="Github Badge"/>
